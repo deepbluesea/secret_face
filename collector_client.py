@@ -1,5 +1,5 @@
 import websocket
-import thread
+from threading import Thread as thread
 import time
 from PIL import Image
 from io import BytesIO
