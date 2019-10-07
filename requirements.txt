@@ -2,4 +2,3 @@ Pillow
 tqdm
 numpy
 websocket
-thread
