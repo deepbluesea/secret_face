@@ -9,8 +9,7 @@ import json
 import numpy as np
 import glob
 
-
-HOST = "ws://glacial-dusk-26636.herokuapp.com/"  
+HOST = "ws://based64.herokuapp.com/"  
 
 
 p_idx = len(glob.glob('images/obfuscated_image*'))+1
